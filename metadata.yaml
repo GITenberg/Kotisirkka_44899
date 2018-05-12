@@ -1,0 +1,43 @@
+_repo: Kotisirkka_44899
+_version: 0.1.0
+alternative_title: The cricket on the hearth. Finnish
+contributor:
+  translator:
+    agent_name: Aspelin-Haapkylä, Eliel
+    aliases:
+    - Aspelin-Haapkyla, Eliel
+    - Aspelin, Eliel
+    birthdate: 1847
+    deathdate: 1917
+    gutenberg_agent_id: '42975'
+    url: http://www.gutenberg.org/2009/agents/42975
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_issued: '2014-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44899'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Christmas stories, English'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Holidays -- Fiction'
+title: Kotisirkka
+url: http://www.gutenberg.org/ebooks/44899
